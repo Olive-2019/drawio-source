@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-08-29T12:22:47.189Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36" etag="yni5EG_lU3ItWV9btsIv" border="50" scale="3" compressed="false" locked="false" version="24.7.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-08-29T12:25:34.315Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36" etag="L3CFDgwgvgnpq7U6Qg71" border="50" scale="3" compressed="false" locked="false" version="24.7.1" type="github">
   <diagram name="Blank" id="YmL12bMKpDGza6XwsDPr">
     <mxGraphModel dx="2074" dy="1121" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="1" shadow="0">
       <root>
@@ -10,7 +10,7 @@
             <mxPoint x="558" y="443" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Ku0F_qCkelBtIkD-E8Qs-37" value="$$\mathbb{S}_{DB_t}^i$$" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontStyle=1;fontSize=24;labelBackgroundColor=none;" vertex="1" connectable="0" parent="Ku0F_qCkelBtIkD-E8Qs-13">
+        <mxCell id="Ku0F_qCkelBtIkD-E8Qs-37" value="$$\mathbb{S}_{DB_t}^{i}$$&lt;span class=&quot;eusoft-eudic-chrome-extension-translate-content&quot;&gt;&lt;span class=&quot;eusoft-eudic-chrome-extension-translate-white-space ng-star-inserted&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;span data-eusoft-eudic-loading-template-original-text=&quot;$$\mathbb{S}_{DB_t}^$$&quot; class=&quot;eusoft-eudic-translate-loading-tag ng-star-inserted&quot;&gt;&lt;/span&gt;&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontStyle=1;fontSize=24;labelBackgroundColor=none;" vertex="1" connectable="0" parent="Ku0F_qCkelBtIkD-E8Qs-13">
           <mxGeometry x="0.0137" y="5" relative="1" as="geometry">
             <mxPoint x="-5" y="22" as="offset" />
           </mxGeometry>
@@ -32,9 +32,9 @@
             <mxPoint x="389" y="497" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Ku0F_qCkelBtIkD-E8Qs-44" value="$$\mathbb{S}_{DB_t},R_o^{i}$$" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=24;labelBackgroundColor=none;" vertex="1" connectable="0" parent="Ku0F_qCkelBtIkD-E8Qs-16">
+        <mxCell id="Ku0F_qCkelBtIkD-E8Qs-44" value="$$\mathbb{S}_{DB_o}^{i+1},R_o^{i+1}$$" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=24;labelBackgroundColor=none;" vertex="1" connectable="0" parent="Ku0F_qCkelBtIkD-E8Qs-16">
           <mxGeometry x="-0.5102" y="-7" relative="1" as="geometry">
-            <mxPoint x="-27" y="-13" as="offset" />
+            <mxPoint x="-21" y="-29" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Ku0F_qCkelBtIkD-E8Qs-23" value="" style="group" vertex="1" connectable="0" parent="1">
@@ -85,7 +85,7 @@
         <mxCell id="Ku0F_qCkelBtIkD-E8Qs-46" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shape=flexArrow;startArrow=block;endArrow=none;endFill=0;sketch=1;curveFitting=1;jiggle=2;flowAnimation=0;" edge="1" parent="1" source="Ku0F_qCkelBtIkD-E8Qs-7" target="Ku0F_qCkelBtIkD-E8Qs-45">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Ku0F_qCkelBtIkD-E8Qs-47" value="&lt;span style=&quot;font-family: &amp;quot;Comic Sans MS&amp;quot;; font-size: 19px; font-weight: 700; text-wrap: wrap;&quot;&gt;$$\mathbb{S}_{DB_o},R_o$$&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=none;" vertex="1" connectable="0" parent="Ku0F_qCkelBtIkD-E8Qs-46">
+        <mxCell id="Ku0F_qCkelBtIkD-E8Qs-47" value="&lt;span style=&quot;font-family: &amp;quot;Comic Sans MS&amp;quot;; font-size: 19px; font-weight: 700; text-wrap: wrap;&quot;&gt;$$\mathbb{S}_{DB_o}^0,R_o^0$$&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=none;" vertex="1" connectable="0" parent="Ku0F_qCkelBtIkD-E8Qs-46">
           <mxGeometry x="0.2824" y="1" relative="1" as="geometry">
             <mxPoint x="53" as="offset" />
           </mxGeometry>
@@ -98,7 +98,12 @@
         </mxCell>
         <mxCell id="Ku0F_qCkelBtIkD-E8Qs-55" value="&lt;span style=&quot;font-size: 19px;&quot;&gt;测试全部通过&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=none;fontSize=19;fontStyle=1" vertex="1" connectable="0" parent="Ku0F_qCkelBtIkD-E8Qs-54">
           <mxGeometry x="0.2456" relative="1" as="geometry">
-            <mxPoint x="-71" y="-1" as="offset" />
+            <mxPoint x="71" y="-15" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ku0F_qCkelBtIkD-E8Qs-57" value="&lt;span style=&quot;font-family: &amp;quot;Comic Sans MS&amp;quot;; font-size: 19px; font-weight: 700; text-wrap: wrap;&quot;&gt;$$\mathbb{S}_{DB_t}^n$$&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=none;" vertex="1" connectable="0" parent="Ku0F_qCkelBtIkD-E8Qs-54">
+          <mxGeometry x="0.5789" y="3" relative="1" as="geometry">
+            <mxPoint x="39" y="7" as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
