@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Safari/605.1.15" border="50" scale="3" compressed="false" locked="false" version="24.7.12">
   <diagram name="Blank" id="YmL12bMKpDGza6XwsDPr">
-    <mxGraphModel dx="1833" dy="1187" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="1" shadow="0">
+    <mxGraphModel dx="1833" dy="1215" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="1" shadow="0">
       <root>
         <mxCell id="X5NqExCQtvZxIxQ7pmgY-0" />
         <mxCell id="1" parent="X5NqExCQtvZxIxQ7pmgY-0" />
@@ -32,7 +32,7 @@
             <mxPoint x="-33" y="-29" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Ku0F_qCkelBtIkD-E8Qs-38" value="" style="group;fontSize=18;fillColor=#f8cecc;strokeColor=#b85450;sketch=1;curveFitting=1;jiggle=2;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1" connectable="0">
+        <mxCell id="Ku0F_qCkelBtIkD-E8Qs-38" value="" style="group;fontSize=18;fillColor=#f8cecc;strokeColor=none;sketch=1;curveFitting=1;jiggle=2;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1" connectable="0">
           <mxGeometry x="494" y="445.75" width="118" height="103.5" as="geometry" />
         </mxCell>
         <mxCell id="Ku0F_qCkelBtIkD-E8Qs-39" value="" style="rounded=1;whiteSpace=wrap;fillColor=#fdedec;strokeColor=#b85450;fontFamily=Courier New;fontSize=19;html=1;fontStyle=1;align=center;verticalAlign=middle;fontColor=default;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="Ku0F_qCkelBtIkD-E8Qs-38" vertex="1">
