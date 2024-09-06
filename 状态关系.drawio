@@ -43,7 +43,7 @@
         <mxCell id="9NlLvZTU2Q5gZjpkGXMk-14" value="$$s_{DB}$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=24;" vertex="1" parent="1">
           <mxGeometry x="85" y="495" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="9NlLvZTU2Q5gZjpkGXMk-16" value="DWF中的对应关系" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=#6c8ebf;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.concepts.folder;fillColor=#dae8fc;fontSize=24;" vertex="1" parent="1">
+        <mxCell id="9NlLvZTU2Q5gZjpkGXMk-16" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=#6c8ebf;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.concepts.folder;fillColor=#dae8fc;fontSize=24;" vertex="1" parent="1">
           <mxGeometry x="370" y="280" width="240" height="280" as="geometry" />
         </mxCell>
         <mxCell id="9NlLvZTU2Q5gZjpkGXMk-20" value="" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.document;fillColor=#A9C4EB;strokeColor=#6c8ebf;" vertex="1" parent="1">
@@ -62,7 +62,7 @@
           <mxGeometry x="414" y="489" width="64" height="46" as="geometry" />
         </mxCell>
         <mxCell id="9NlLvZTU2Q5gZjpkGXMk-26" value="形式化定义" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=24;" vertex="1" parent="1">
-          <mxGeometry x="105" y="570" width="125" height="30" as="geometry" />
+          <mxGeometry x="102.5" y="570" width="125" height="30" as="geometry" />
         </mxCell>
         <mxCell id="9NlLvZTU2Q5gZjpkGXMk-27" value="DWF仓库" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=24;" vertex="1" parent="1">
           <mxGeometry x="550" y="350" width="60" height="30" as="geometry" />
@@ -72,6 +72,9 @@
         </mxCell>
         <mxCell id="9NlLvZTU2Q5gZjpkGXMk-30" value="代码片段" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=24;" vertex="1" parent="1">
           <mxGeometry x="478" y="497" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9NlLvZTU2Q5gZjpkGXMk-31" value="&lt;span style=&quot;font-size: 24px; white-space: nowrap;&quot;&gt;DWF中的对应关系&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="460" y="570" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
