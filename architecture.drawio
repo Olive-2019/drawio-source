@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Safari/605.1.15" version="24.7.12">
   <diagram name="第 1 页" id="QClTNXcgWMtWeMr5wYIb">
-    <mxGraphModel dx="838" dy="1190" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="838" dy="1162" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -88,8 +88,16 @@
         <mxCell id="vKG6InuEvvyrwk2dPw3P-109" value="适配器层" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;strokeWidth=2;strokeColor=#82b366;align=center;verticalAlign=middle;fontFamily=Helvetica;fontColor=default;fillColor=#a4d3a1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
           <mxGeometry x="270" y="540" width="270" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="vKG6InuEvvyrwk2dPw3P-110" value="当前系统状态" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;strokeWidth=2;strokeColor=#82b366;align=center;verticalAlign=middle;fontFamily=Helvetica;fontColor=default;fillColor=#a4d3a1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
-          <mxGeometry x="420" y="610" width="120" height="40" as="geometry" />
+        <mxCell id="kv2m1gdb-LCeSmeL4Ier-42" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;" edge="1" parent="1" source="vKG6InuEvvyrwk2dPw3P-110" target="vKG6InuEvvyrwk2dPw3P-109">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="475" y="590" />
+              <mxPoint x="475" y="590" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vKG6InuEvvyrwk2dPw3P-110" value="当前系统状态（yml配置文件）" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;strokeWidth=2;strokeColor=#82b366;align=center;verticalAlign=middle;fontFamily=Helvetica;fontColor=default;fillColor=#a4d3a1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
+          <mxGeometry x="410" y="610" width="130" height="40" as="geometry" />
         </mxCell>
         <mxCell id="kv2m1gdb-LCeSmeL4Ier-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;strokeWidth=2;" edge="1" parent="1" source="vKG6InuEvvyrwk2dPw3P-112" target="vKG6InuEvvyrwk2dPw3P-67">
           <mxGeometry relative="1" as="geometry">
@@ -101,9 +109,6 @@
         </mxCell>
         <mxCell id="vKG6InuEvvyrwk2dPw3P-112" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;测试执行结果&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;strokeWidth=2;strokeColor=#82b366;align=center;verticalAlign=middle;fontFamily=Helvetica;fontColor=default;fillColor=#a4d3a1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
           <mxGeometry x="270" y="610" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="vKG6InuEvvyrwk2dPw3P-116" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.778;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=2;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" source="vKG6InuEvvyrwk2dPw3P-110" target="vKG6InuEvvyrwk2dPw3P-109" edge="1">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="vKG6InuEvvyrwk2dPw3P-120" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.139;entryY=0.025;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.317;exitY=1.025;exitDx=0;exitDy=0;exitPerimeter=0;strokeWidth=2;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" source="vKG6InuEvvyrwk2dPw3P-107" target="vKG6InuEvvyrwk2dPw3P-109" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -152,7 +157,7 @@
         <mxCell id="vKG6InuEvvyrwk2dPw3P-49" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" source="vKG6InuEvvyrwk2dPw3P-42" target="vKG6InuEvvyrwk2dPw3P-48" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="vKG6InuEvvyrwk2dPw3P-42" value="Query" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;strokeWidth=2;strokeColor=#d79b00;align=center;verticalAlign=middle;fontFamily=Helvetica;fillColor=#ffdab3;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;container=0;" parent="1" vertex="1">
+        <mxCell id="vKG6InuEvvyrwk2dPw3P-42" value="提示词（Query）" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;strokeWidth=2;strokeColor=#d79b00;align=center;verticalAlign=middle;fontFamily=Helvetica;fillColor=#ffdab3;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;container=0;" parent="1" vertex="1">
           <mxGeometry x="660" y="480" width="320" height="40" as="geometry" />
         </mxCell>
         <mxCell id="vKG6InuEvvyrwk2dPw3P-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.773;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=2;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" source="vKG6InuEvvyrwk2dPw3P-31" target="vKG6InuEvvyrwk2dPw3P-42" edge="1">
@@ -176,7 +181,7 @@
         <mxCell id="vKG6InuEvvyrwk2dPw3P-57" value="&lt;div style=&quot;font-size: 16px;&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;web&lt;/span&gt;&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.multi-document;whiteSpace=wrap;strokeColor=#d6b656;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=16;fontColor=default;fillColor=#f7d3a1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;container=0;" parent="1" vertex="1">
           <mxGeometry x="790" y="190" width="58" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="vKG6InuEvvyrwk2dPw3P-26" value="数据源" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontStyle=0;strokeWidth=2;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;container=0;" parent="1" vertex="1">
+        <mxCell id="vKG6InuEvvyrwk2dPw3P-26" value="知识库" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontStyle=0;strokeWidth=2;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;container=0;" parent="1" vertex="1">
           <mxGeometry x="790" y="150" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="vKG6InuEvvyrwk2dPw3P-55" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;SQL&lt;/span&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;转换例子&lt;/span&gt;&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.multi-document;whiteSpace=wrap;strokeColor=#d6b656;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=16;fontColor=default;fillColor=#f7d3a1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;container=0;" parent="1" vertex="1">
