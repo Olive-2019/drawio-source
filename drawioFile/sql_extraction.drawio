@@ -72,20 +72,17 @@
         <mxCell id="Abmif86US-RthduHauCD-33" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;插桩日志&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="247" y="384" width="73" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Abmif86US-RthduHauCD-38" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="700" y="400" width="110" height="75" as="geometry" />
+        <mxCell id="Abmif86US-RthduHauCD-34" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="700" y="400" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Abmif86US-RthduHauCD-34" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;strokeWidth=2;" vertex="1" parent="Abmif86US-RthduHauCD-38">
-          <mxGeometry width="30" height="30" as="geometry" />
+        <mxCell id="Abmif86US-RthduHauCD-35" value="日志生成" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="735" y="400" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Abmif86US-RthduHauCD-35" value="第一阶段" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="Abmif86US-RthduHauCD-38">
-          <mxGeometry x="40" width="70" height="30" as="geometry" />
+        <mxCell id="Abmif86US-RthduHauCD-36" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="700" y="445" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Abmif86US-RthduHauCD-36" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;strokeWidth=2;" vertex="1" parent="Abmif86US-RthduHauCD-38">
-          <mxGeometry y="45" width="30" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="Abmif86US-RthduHauCD-37" value="第二阶段" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="Abmif86US-RthduHauCD-38">
-          <mxGeometry x="40" y="45" width="70" height="30" as="geometry" />
+        <mxCell id="Abmif86US-RthduHauCD-37" value="日志分析" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="740" y="445" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
