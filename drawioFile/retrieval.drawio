@@ -85,8 +85,8 @@
         <mxCell id="KWCy8iFK6t6dK1so9Yj5-78" value="多路召回&lt;div style=&quot;font-size: 16px;&quot;&gt;检索引擎&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fillColor=#fff2cc;strokeColor=#d6b656;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="490" y="250" width="70" height="430" as="geometry" />
         </mxCell>
-        <mxCell id="KWCy8iFK6t6dK1so9Yj5-80" value="结构匹配" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="405.52" y="350" width="70" height="30" as="geometry" />
+        <mxCell id="KWCy8iFK6t6dK1so9Yj5-80" value="结构相似性&lt;div&gt;匹配&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="399.52" y="350" width="84.48" height="30" as="geometry" />
         </mxCell>
         <mxCell id="KWCy8iFK6t6dK1so9Yj5-87" value="静态分析" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="395.27" y="590" width="90.5" height="30" as="geometry" />
