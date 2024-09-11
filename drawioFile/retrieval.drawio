@@ -106,21 +106,6 @@
             <mxPoint x="490" y="287.4" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="KWCy8iFK6t6dK1so9Yj5-54" value="" style="group;strokeColor=none;dashed=1;strokeWidth=2;" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="70" y="465" width="90" height="120" as="geometry" />
-        </mxCell>
-        <mxCell id="KWCy8iFK6t6dK1so9Yj5-1" value="" style="sketch=0;outlineConnect=0;fillColor=#f0a30a;strokeColor=#BD7000;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=16;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.document;fontColor=#000000;" vertex="1" parent="KWCy8iFK6t6dK1so9Yj5-54">
-          <mxGeometry x="23.25" y="15" width="43.5" height="59.53" as="geometry" />
-        </mxCell>
-        <mxCell id="KWCy8iFK6t6dK1so9Yj5-4" value="目标数据库&lt;div&gt;文档&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="KWCy8iFK6t6dK1so9Yj5-54">
-          <mxGeometry y="90" width="90" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="KWCy8iFK6t6dK1so9Yj5-76" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="KWCy8iFK6t6dK1so9Yj5-54">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="90" y="60" as="sourcePoint" />
-            <mxPoint x="120" y="60" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="KWCy8iFK6t6dK1so9Yj5-56" value="" style="group;strokeColor=none;dashed=1;strokeWidth=2;" vertex="1" connectable="0" parent="1">
           <mxGeometry x="190" y="470" width="66.5" height="103.16000000000003" as="geometry" />
         </mxCell>
@@ -145,7 +130,7 @@
             <mxPoint x="149.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="KWCy8iFK6t6dK1so9Yj5-77" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="KWCy8iFK6t6dK1so9Yj5-77" value="" style="endArrow=classic;html=1;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="268.52" y="524.66" as="sourcePoint" />
             <mxPoint x="308.52" y="524.66" as="targetPoint" />
@@ -172,7 +157,7 @@
         <mxCell id="KWCy8iFK6t6dK1so9Yj5-92" value="相似SQL样例" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="KWCy8iFK6t6dK1so9Yj5-98">
           <mxGeometry y="50" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="KWCy8iFK6t6dK1so9Yj5-99" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1.038;exitY=0.21;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="KWCy8iFK6t6dK1so9Yj5-78" target="KWCy8iFK6t6dK1so9Yj5-91">
+        <mxCell id="KWCy8iFK6t6dK1so9Yj5-99" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="KWCy8iFK6t6dK1so9Yj5-91">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="570" y="340" as="sourcePoint" />
             <mxPoint x="600" y="290" as="targetPoint" />
@@ -195,6 +180,21 @@
             <mxPoint x="400" y="380" as="sourcePoint" />
             <mxPoint x="490" y="380" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="KWCy8iFK6t6dK1so9Yj5-76" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="160" y="525" as="sourcePoint" />
+            <mxPoint x="190" y="525" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KWCy8iFK6t6dK1so9Yj5-103" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="70" y="470" width="90" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="KWCy8iFK6t6dK1so9Yj5-1" value="" style="sketch=0;outlineConnect=0;fillColor=#f0a30a;strokeColor=#BD7000;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=16;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.document;fontColor=#000000;" vertex="1" parent="KWCy8iFK6t6dK1so9Yj5-103">
+          <mxGeometry x="23.25" width="43.5" height="59.53" as="geometry" />
+        </mxCell>
+        <mxCell id="KWCy8iFK6t6dK1so9Yj5-4" value="目标数据库&lt;div&gt;文档&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="KWCy8iFK6t6dK1so9Yj5-103">
+          <mxGeometry y="70" width="90" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
