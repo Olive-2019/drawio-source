@@ -13,7 +13,7 @@
         <mxCell id="YVu898vXx8Sxn03sNdAM-3" value="简单SQL&lt;div&gt;提示词构建器&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fillColor=#FFCE9F;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="140" y="420" width="100" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="YVu898vXx8Sxn03sNdAM-4" value="递归SQL&lt;div&gt;提示词构建器&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fillColor=#FFCE9F;strokeColor=#d79b00;" parent="1" vertex="1">
+        <mxCell id="YVu898vXx8Sxn03sNdAM-4" value="&lt;div&gt;SQL片段&lt;br&gt;&lt;/div&gt;&lt;div&gt;提示词构建器&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fillColor=#FFCE9F;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="253" y="420" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="YVu898vXx8Sxn03sNdAM-7" value="嵌套SQL&lt;div&gt;提示词构建器&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fillColor=#FFCE9F;strokeColor=#d79b00;" parent="1" vertex="1">
@@ -52,7 +52,7 @@
         <mxCell id="YVu898vXx8Sxn03sNdAM-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;shape=flexArrow;fillColor=#ffe6cc;strokeColor=#d79b00;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="YVu898vXx8Sxn03sNdAM-1" target="YVu898vXx8Sxn03sNdAM-20" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="x5uuE-5lXbgp1uWox99F-1" value="SQL片段&lt;div&gt;提示词构建器&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fillColor=#FFCE9F;strokeColor=#d79b00;" parent="1" vertex="1">
+        <mxCell id="x5uuE-5lXbgp1uWox99F-1" value="递归SQL&lt;div&gt;提示词构建器&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fillColor=#FFCE9F;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="478" y="420" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="MaVvMvQMdU_KuoV2xBrC-1" value="提示词模板库" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#d79b00;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=16;fontColor=default;fillColor=#FFCE9F;" vertex="1" parent="1">
