@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36" version="24.7.13">
   <diagram name="第 1 页" id="crCRXyopgOy7FKQEuB4X">
-    <mxGraphModel dx="1122" dy="982" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="454" dy="398" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -78,6 +78,21 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="230" y="350" as="sourcePoint" />
             <mxPoint x="270" y="450" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rIVaTKGENTql9NOQ5TG6-36" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="290" y="210" width="66.25" height="80.58999999999997" as="geometry" />
+        </mxCell>
+        <mxCell id="rIVaTKGENTql9NOQ5TG6-33" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/compute/Maintenance_Configuration.svg;" vertex="1" parent="rIVaTKGENTql9NOQ5TG6-36">
+          <mxGeometry x="6.25" width="53.75" height="50.59" as="geometry" />
+        </mxCell>
+        <mxCell id="rIVaTKGENTql9NOQ5TG6-34" value="任务配置" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="rIVaTKGENTql9NOQ5TG6-36">
+          <mxGeometry y="50.589999999999975" width="66.25" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rIVaTKGENTql9NOQ5TG6-37" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.974;exitY=0.858;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="rIVaTKGENTql9NOQ5TG6-33" target="rIVaTKGENTql9NOQ5TG6-22">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="360" y="253" as="sourcePoint" />
+            <mxPoint x="440" y="110" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
