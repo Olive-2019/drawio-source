@@ -8,7 +8,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="xNk824SL1mtJElE5JXy6-1" value="代码生成" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fillColor=#FFECEB;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="380" y="240" width="80" height="50" as="geometry" />
+          <mxGeometry x="374" y="222.25" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="xNk824SL1mtJElE5JXy6-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;shape=flexArrow;exitX=0.5;exitY=0;exitDx=0;exitDy=0;fillColor=#E5F0FF;strokeColor=#6c8ebf;" edge="1" parent="1" source="xNk824SL1mtJElE5JXy6-2" target="xNk824SL1mtJElE5JXy6-1">
           <mxGeometry relative="1" as="geometry" />
@@ -40,23 +40,26 @@
         <mxCell id="xNk824SL1mtJElE5JXy6-19" value="剪枝加速" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="126" y="329.75" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="xNk824SL1mtJElE5JXy6-20" value="" style="sketch=0;outlineConnect=0;fillColor=#F19C99;strokeColor=#b85450;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=16;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.rds_optimized_writes;" vertex="1" parent="1">
-          <mxGeometry x="345.5" y="160" width="40" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="xNk824SL1mtJElE5JXy6-21" value="" style="sketch=0;outlineConnect=0;fillColor=#F19C99;strokeColor=#b85450;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=16;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.sagemaker_model;" vertex="1" parent="1">
-          <mxGeometry x="450" y="160" width="40" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="xNk824SL1mtJElE5JXy6-22" value="提示词设计" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="321.63" y="200" width="87.75" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="xNk824SL1mtJElE5JXy6-23" value="模型鲁棒性" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="421.63" y="200" width="96.75" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="xNk824SL1mtJElE5JXy6-27" value="" style="sketch=0;html=1;aspect=fixed;strokeColor=#9673a6;shadow=0;fillColor=#F8EBFF;verticalAlign=top;labelPosition=center;verticalLabelPosition=bottom;shape=mxgraph.gcp2.arrow_cycle" vertex="1" parent="1">
-          <mxGeometry x="580" y="286.75" width="40" height="38" as="geometry" />
+          <mxGeometry x="590" y="286.75" width="40" height="38" as="geometry" />
         </mxCell>
         <mxCell id="xNk824SL1mtJElE5JXy6-28" value="执行闭环" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="560" y="329.75" width="80" height="30" as="geometry" />
+          <mxGeometry x="570" y="329.75" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xNk824SL1mtJElE5JXy6-29" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="511.63" y="212.25" width="196.75" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="xNk824SL1mtJElE5JXy6-20" value="" style="sketch=0;outlineConnect=0;fillColor=#F19C99;strokeColor=#b85450;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=16;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.rds_optimized_writes;" vertex="1" parent="xNk824SL1mtJElE5JXy6-29">
+          <mxGeometry x="23.870000000000005" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="xNk824SL1mtJElE5JXy6-21" value="" style="sketch=0;outlineConnect=0;fillColor=#F19C99;strokeColor=#b85450;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=16;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.sagemaker_model;" vertex="1" parent="xNk824SL1mtJElE5JXy6-29">
+          <mxGeometry x="128.37" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="xNk824SL1mtJElE5JXy6-22" value="提示词设计" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="xNk824SL1mtJElE5JXy6-29">
+          <mxGeometry y="40" width="87.75" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xNk824SL1mtJElE5JXy6-23" value="模型鲁棒性" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="xNk824SL1mtJElE5JXy6-29">
+          <mxGeometry x="100" y="40" width="96.75" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
