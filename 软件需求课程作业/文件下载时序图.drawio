@@ -1,0 +1,141 @@
+<mxfile host="app.diagrams.net" modified="2023-12-22T08:27:40.343Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="CmCcfLbtLlTiVD-4Alt3" version="22.1.11" type="github">
+  <diagram name="第 1 页" id="kh9tJRVflfqixsKQXmed">
+    <mxGraphModel dx="1619" dy="449" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="r1kz_oplsNE4XsuLYI0p-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=0;" edge="1" parent="1" source="r1kz_oplsNE4XsuLYI0p-5" target="r1kz_oplsNE4XsuLYI0p-12">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-490" y="236" />
+              <mxPoint x="-490" y="236" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="r1kz_oplsNE4XsuLYI0p-2" value="click “start” button" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="r1kz_oplsNE4XsuLYI0p-1">
+          <mxGeometry x="-0.259" y="4" relative="1" as="geometry">
+            <mxPoint x="12" y="-6" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="r1kz_oplsNE4XsuLYI0p-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-560.189655172414" y="346.0000000000001" as="sourcePoint" />
+            <mxPoint x="-455.5" y="346.0000000000001" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="r1kz_oplsNE4XsuLYI0p-4" value="click “download” button" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="r1kz_oplsNE4XsuLYI0p-3">
+          <mxGeometry x="0.2507" y="1" relative="1" as="geometry">
+            <mxPoint x="-15" y="-9" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="r1kz_oplsNE4XsuLYI0p-5" value="" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};participant=umlActor;" vertex="1" parent="1">
+          <mxGeometry x="-570" y="166" width="20" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="r1kz_oplsNE4XsuLYI0p-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-455.18965517241395" y="246.00448275862072" as="sourcePoint" />
+            <mxPoint x="-360.5" y="246.00448275862072" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-410" y="245.97000000000003" />
+              <mxPoint x="-410" y="245.97000000000003" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="r1kz_oplsNE4XsuLYI0p-7" value="start process" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="r1kz_oplsNE4XsuLYI0p-6">
+          <mxGeometry x="0.2771" relative="1" as="geometry">
+            <mxPoint x="-15" y="-10" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="r1kz_oplsNE4XsuLYI0p-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=0;dashed=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-455.49999999999994" y="405.9999999999999" as="sourcePoint" />
+            <mxPoint x="-560.1451612903226" y="405.9999999999999" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="r1kz_oplsNE4XsuLYI0p-9" value="file" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="r1kz_oplsNE4XsuLYI0p-8">
+          <mxGeometry x="-0.0213" y="-1" relative="1" as="geometry">
+            <mxPoint x="-4" y="-9" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="r1kz_oplsNE4XsuLYI0p-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-455.18965517241395" y="356.0000000000001" as="sourcePoint" />
+            <mxPoint x="-360.5" y="356.0000000000001" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="r1kz_oplsNE4XsuLYI0p-11" value="download request" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="r1kz_oplsNE4XsuLYI0p-10">
+          <mxGeometry x="-0.2327" relative="1" as="geometry">
+            <mxPoint x="9" y="-10" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="r1kz_oplsNE4XsuLYI0p-12" value="" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};participant=umlBoundary;" vertex="1" parent="1">
+          <mxGeometry x="-480" y="166" width="50" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="r1kz_oplsNE4XsuLYI0p-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-360.2196551724139" y="276.0044827586207" as="sourcePoint" />
+            <mxPoint x="-360.2196551724139" y="296.0044827586207" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-320.03" y="275.97" />
+              <mxPoint x="-320.03" y="295.97" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="r1kz_oplsNE4XsuLYI0p-14" value="transform code" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="r1kz_oplsNE4XsuLYI0p-13">
+          <mxGeometry x="0.1919" y="2" relative="1" as="geometry">
+            <mxPoint y="-32" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="r1kz_oplsNE4XsuLYI0p-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=0;dashed=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-410" y="385.97" />
+              <mxPoint x="-410" y="385.97" />
+            </Array>
+            <mxPoint x="-360.5" y="386.0044827586207" as="sourcePoint" />
+            <mxPoint x="-455.18965517241395" y="386.0044827586207" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="r1kz_oplsNE4XsuLYI0p-16" value="file" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="r1kz_oplsNE4XsuLYI0p-15">
+          <mxGeometry x="0.0937" y="-1" relative="1" as="geometry">
+            <mxPoint y="-9" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="r1kz_oplsNE4XsuLYI0p-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=0;dashed=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-360.5" y="306.0000000000001" as="sourcePoint" />
+            <mxPoint x="-455.18965517241395" y="306.0000000000001" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="r1kz_oplsNE4XsuLYI0p-18" value="result" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="r1kz_oplsNE4XsuLYI0p-17">
+          <mxGeometry x="-0.1606" y="-1" relative="1" as="geometry">
+            <mxPoint x="-9" y="-9" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="r1kz_oplsNE4XsuLYI0p-19" value="" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};participant=umlControl;" vertex="1" parent="1">
+          <mxGeometry x="-380" y="166" width="40" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="r1kz_oplsNE4XsuLYI0p-20" value="DownloadInterface" style="text;align=center;fontStyle=1;verticalAlign=middle;spacingLeft=3;spacingRight=3;strokeColor=none;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-495" y="130" width="80" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="r1kz_oplsNE4XsuLYI0p-21" value="Downloader" style="text;align=center;fontStyle=1;verticalAlign=middle;spacingLeft=3;spacingRight=3;strokeColor=none;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-400" y="130" width="80" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="r1kz_oplsNE4XsuLYI0p-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=0;dashed=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-455.3499999999999" y="315.9999999999999" as="sourcePoint" />
+            <mxPoint x="-559.9951612903226" y="315.9999999999999" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="r1kz_oplsNE4XsuLYI0p-23" value="result" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="r1kz_oplsNE4XsuLYI0p-22">
+          <mxGeometry x="-0.0213" y="-1" relative="1" as="geometry">
+            <mxPoint x="-4" y="-9" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="r1kz_oplsNE4XsuLYI0p-24" value="User" style="text;align=center;fontStyle=1;verticalAlign=middle;spacingLeft=3;spacingRight=3;strokeColor=none;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-600" y="130" width="80" height="26" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
