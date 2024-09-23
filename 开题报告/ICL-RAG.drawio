@@ -10,7 +10,7 @@
         <mxCell id="q3679WqarNIwKBmOd71S-2" value="原问题" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="290" y="460" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="q3679WqarNIwKBmOd71S-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;shape=flexArrow;endWidth=7.5;endSize=2.085;width=5.5;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1" source="q3679WqarNIwKBmOd71S-3" target="q3679WqarNIwKBmOd71S-4">
+        <mxCell id="q3679WqarNIwKBmOd71S-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;shape=flexArrow;endWidth=7.5;endSize=2.085;width=5.5;fillColor=#ffe6cc;strokeColor=#d79b00;" edge="1" parent="1" source="q3679WqarNIwKBmOd71S-3" target="q3679WqarNIwKBmOd71S-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="q3679WqarNIwKBmOd71S-3" value="大语言模型" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
@@ -25,7 +25,7 @@
         <mxCell id="q3679WqarNIwKBmOd71S-12" value="知识库" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#b85450;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=16;fillColor=#FFE7E5;" vertex="1" parent="1">
           <mxGeometry x="220" y="515" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="q3679WqarNIwKBmOd71S-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;shape=flexArrow;endWidth=7.5;endSize=2.085;width=5.5;fillColor=#F0F5FF;strokeColor=#6c8ebf;" edge="1" parent="1">
+        <mxCell id="q3679WqarNIwKBmOd71S-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;shape=flexArrow;endWidth=7.5;endSize=2.085;width=5.5;fillColor=#ffe6cc;strokeColor=#d79b00;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="289.5" y="460" as="sourcePoint" />
             <mxPoint x="289.5" y="440" as="targetPoint" />
