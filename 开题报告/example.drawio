@@ -1,9 +1,21 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36" version="24.7.16">
   <diagram name="第 1 页" id="-X8wCvmQ07jOS2BW_9Gm">
-    <mxGraphModel>
+    <mxGraphModel dx="780" dy="444" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="P6SMD4-H_0bSS7XY2HRh-1" value="&lt;div&gt;SELECT &lt;b&gt;&lt;font color=&quot;#ff0000&quot;&gt;first_name || &#39; &#39; || last_name&lt;/font&gt;&lt;/b&gt; AS full_name FROM users;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=top;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;" vertex="1" parent="1">
+          <mxGeometry x="120" y="270" width="230" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="P6SMD4-H_0bSS7XY2HRh-2" value="&lt;div&gt;SELECT &lt;b&gt;&lt;font color=&quot;#ff0000&quot;&gt;CONCAT(first_name, &#39; &#39;, last_name)&lt;/font&gt;&lt;/b&gt; AS full_name FROM users;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=top;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;" vertex="1" parent="1">
+          <mxGeometry x="90" y="340" width="290" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="P6SMD4-H_0bSS7XY2HRh-3" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;endWidth=10;endSize=4.33;fontFamily=Helvetica;fillColor=#f8cecc;strokeColor=#b85450;" edge="1" parent="1" source="P6SMD4-H_0bSS7XY2HRh-1" target="P6SMD4-H_0bSS7XY2HRh-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="210" y="450" as="sourcePoint" />
+            <mxPoint x="260" y="400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
