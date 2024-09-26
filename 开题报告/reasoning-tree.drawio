@@ -148,6 +148,9 @@
         <mxCell id="f0TI_fBVNnKS0ru_FoyS-91" value="D1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;aspect=fixed;fontSize=22;fontFamily=Times New Roman;strokeWidth=1;" vertex="1" parent="1">
           <mxGeometry x="357.5" y="1133" width="45" height="45" as="geometry" />
         </mxCell>
+        <mxCell id="f0TI_fBVNnKS0ru_FoyS-98" value="replace" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=22;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="-330" y="1120" width="80" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
