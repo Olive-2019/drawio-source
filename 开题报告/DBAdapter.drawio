@@ -74,7 +74,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="BSHCZzDnnlXFaa0tmxAZ-18" value="Error Info" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fontFamily=Comic Sans MS;" parent="1" vertex="1">
+        <mxCell id="BSHCZzDnnlXFaa0tmxAZ-18" value="error Info" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fontFamily=Comic Sans MS;" parent="1" vertex="1">
           <mxGeometry x="362.5" y="270" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="BSHCZzDnnlXFaa0tmxAZ-20" value="meta data" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fontFamily=Comic Sans MS;" parent="1" vertex="1">
