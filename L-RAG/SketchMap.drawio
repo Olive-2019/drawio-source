@@ -145,7 +145,7 @@
         <mxCell id="nXA_iJxp7kX-uLhlYY8G-61" value="(b) Multi-step RAG" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" parent="1" vertex="1">
           <mxGeometry x="241.5" y="810" width="128.5" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="nXA_iJxp7kX-uLhlYY8G-62" value="(c) Layer wise RAG" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" parent="1" vertex="1">
+        <mxCell id="nXA_iJxp7kX-uLhlYY8G-62" value="(c) Layer-wise RAG" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" parent="1" vertex="1">
           <mxGeometry x="381" y="810" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="nXA_iJxp7kX-uLhlYY8G-63" value="multi-token reasoning" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" parent="1" vertex="1">
