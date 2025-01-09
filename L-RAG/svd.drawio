@@ -186,10 +186,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="j3C7fKV0iampDi246UAi-88" value="low transformation divergence" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="306.43" y="347" width="110" height="43" as="geometry" />
+          <mxGeometry x="462.43" y="347" width="110" height="43" as="geometry" />
         </mxCell>
         <mxCell id="j3C7fKV0iampDi246UAi-90" value="high transformation divergence" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="451" y="347" width="124" height="43" as="geometry" />
+          <mxGeometry x="595.4300000000001" y="347" width="124" height="43" as="geometry" />
         </mxCell>
         <mxCell id="j3C7fKV0iampDi246UAi-91" value="information&amp;nbsp;processing" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;fontStyle=2" vertex="1" parent="1">
           <mxGeometry x="370.26" y="226" width="128.35" height="30" as="geometry" />
@@ -198,7 +198,7 @@
           <mxGeometry x="530" y="226" width="125" height="30" as="geometry" />
         </mxCell>
         <mxCell id="j3C7fKV0iampDi246UAi-112" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="489.9967567567569" y="310" width="60.003243243243105" height="40.45999999999998" as="geometry" />
+          <mxGeometry x="634.426756756757" y="310" width="60.003243243243105" height="40.45999999999998" as="geometry" />
         </mxCell>
         <mxCell id="j3C7fKV0iampDi246UAi-100" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=1;endSize=2;strokeColor=#DE9292;" edge="1" parent="j3C7fKV0iampDi246UAi-112">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -226,7 +226,7 @@
           <mxGeometry x="10.003243243243105" width="50" height="23" as="geometry" />
         </mxCell>
         <mxCell id="j3C7fKV0iampDi246UAi-115" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="320.00351351351355" y="310" width="59.60648648648646" height="40" as="geometry" />
+          <mxGeometry x="476.00351351351355" y="310" width="59.60648648648646" height="40" as="geometry" />
         </mxCell>
         <mxCell id="j3C7fKV0iampDi246UAi-93" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=1;endSize=2;strokeColor=#b85450;fillColor=#f8cecc;" edge="1" parent="j3C7fKV0iampDi246UAi-115">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
