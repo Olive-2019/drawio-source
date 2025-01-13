@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="26.0.5">
   <diagram name="第 1 页" id="bo2FmWa-_vf2SnvGfszc">
-    <mxGraphModel dx="988" dy="534" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="576" dy="311" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -266,12 +266,11 @@
           <mxGeometry x="562.38" y="320" width="138.29" height="50" as="geometry" />
         </mxCell>
         <mxCell id="C99hbG_H1EONaDBP8MdA-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.024;entryY=-0.003;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;curved=1;exitX=0.025;exitY=0.976;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="_c5o3aNSHwLJrKty7LFu-27" target="C99hbG_H1EONaDBP8MdA-71">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="C99hbG_H1EONaDBP8MdA-73" value="" style="endArrow=none;html=1;rounded=0;entryX=0.982;entryY=0.961;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.99;exitY=0.042;exitDx=0;exitDy=0;exitPerimeter=0;edgeStyle=orthogonalEdgeStyle;curved=1;" edge="1" parent="1" source="C99hbG_H1EONaDBP8MdA-71" target="_c5o3aNSHwLJrKty7LFu-27">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="700" y="380" as="sourcePoint" />
-            <mxPoint x="750" y="330" as="targetPoint" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="208" y="315" />
+              <mxPoint x="144" y="315" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="C99hbG_H1EONaDBP8MdA-78" value="" style="group" vertex="1" connectable="0" parent="1">
@@ -290,6 +289,12 @@
         </mxCell>
         <mxCell id="C99hbG_H1EONaDBP8MdA-56" value="LLama2-7b" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="C99hbG_H1EONaDBP8MdA-78">
           <mxGeometry x="25.47999999999996" y="5.649999999999977" width="74.1" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="C99hbG_H1EONaDBP8MdA-94" value="" style="endArrow=none;html=1;rounded=0;entryX=0.989;entryY=0.937;entryDx=0;entryDy=0;entryPerimeter=0;edgeStyle=orthogonalEdgeStyle;curved=1;" edge="1" parent="1" target="_c5o3aNSHwLJrKty7LFu-27">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="700" y="315" as="sourcePoint" />
+            <mxPoint x="630" y="290" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
