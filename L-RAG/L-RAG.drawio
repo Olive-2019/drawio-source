@@ -159,10 +159,10 @@
           <mxGeometry x="-6" width="97.58" height="30" as="geometry" />
         </mxCell>
         <mxCell id="_c5o3aNSHwLJrKty7LFu-52" value="&lt;span style=&quot;font-size: 13px;&quot;&gt;Contriever&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="C99hbG_H1EONaDBP8MdA-30" vertex="1">
-          <mxGeometry x="31.45326153846156" y="5.269999999999982" width="56.785520361990976" height="20" as="geometry" />
+          <mxGeometry x="25.45326153846156" y="5.269999999999982" width="56.785520361990976" height="20" as="geometry" />
         </mxCell>
         <mxCell id="_c5o3aNSHwLJrKty7LFu-53" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/general/Search.svg;" parent="C99hbG_H1EONaDBP8MdA-30" vertex="1">
-          <mxGeometry x="5.899777375565634" y="3.32000000000005" width="21.767782805429874" height="22.099031674208156" as="geometry" />
+          <mxGeometry x="-2.100222624434366" y="3.32000000000005" width="21.767782805429874" height="22.099031674208156" as="geometry" />
         </mxCell>
         <mxCell id="C99hbG_H1EONaDBP8MdA-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;curved=1;endSize=3;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
@@ -203,8 +203,10 @@
         <mxCell id="C99hbG_H1EONaDBP8MdA-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endSize=3;" edge="1" parent="1" source="C99hbG_H1EONaDBP8MdA-33" target="C99hbG_H1EONaDBP8MdA-38">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="C99hbG_H1EONaDBP8MdA-80" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="C99hbG_H1EONaDBP8MdA-44" target="C99hbG_H1EONaDBP8MdA-46">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="C99hbG_H1EONaDBP8MdA-80" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.909;exitY=1.006;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="C99hbG_H1EONaDBP8MdA-44">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="356" y="390" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="C99hbG_H1EONaDBP8MdA-44" value="&lt;div&gt;&lt;b&gt;Query:&lt;/b&gt;&lt;/div&gt;Why did the director of film The Dalton Girls die?" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=10;align=left;" vertex="1" parent="1">
           <mxGeometry x="146.85" y="320" width="119.3" height="50" as="geometry" />
