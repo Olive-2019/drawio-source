@@ -164,6 +164,12 @@
             <mxGeometry x="570" y="390" width="40" height="40" as="geometry" />
           </mxCell>
         </UserObject>
+        <mxCell id="219CYF1WuWqsUgkXM-5G-124" value="(a) Multi-step RAG" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="233" y="468" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="219CYF1WuWqsUgkXM-5G-125" value="(b) Layer-wise RAG" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="440.5" y="468" width="120" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
