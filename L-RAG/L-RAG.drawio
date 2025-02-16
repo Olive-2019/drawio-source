@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36" version="26.0.14">
   <diagram name="第 1 页" id="bo2FmWa-_vf2SnvGfszc">
-    <mxGraphModel dx="683" dy="351" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="775" dy="399" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -28,7 +28,7 @@
         <mxCell id="C99hbG_H1EONaDBP8MdA-61" value="[[0.23, 0.32, ...],&lt;div&gt;&amp;nbsp;[0.56, 0.25, ...]&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;,&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;...]&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fontFamily=Times New Roman;" parent="1" vertex="1">
           <mxGeometry x="427" y="300.26" width="77.57" height="27" as="geometry" />
         </mxCell>
-        <mxCell id="C99hbG_H1EONaDBP8MdA-69" value="&lt;b&gt;Next-hop Document:&lt;/b&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Le Borg died in Los Angeles,&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;California from a heart attack.&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;fontSize=9;fillColor=#F0F6FF;strokeColor=#6c8ebf;fontFamily=Comic Sans MS;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;sketch=1;curveFitting=1;jiggle=2;opacity=60;" parent="1" vertex="1">
+        <mxCell id="C99hbG_H1EONaDBP8MdA-69" value="&lt;b&gt;Second-hop Document:&lt;/b&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Le Borg died in Los Angeles,&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;California from a heart attack.&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;fontSize=9;fillColor=#F0F6FF;strokeColor=#6c8ebf;fontFamily=Comic Sans MS;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;sketch=1;curveFitting=1;jiggle=2;opacity=60;" parent="1" vertex="1">
           <mxGeometry x="606" y="279" width="107.94" height="50" as="geometry" />
         </mxCell>
         <mxCell id="6N9dZShw26KPwPIToiud-19" value="" style="group" parent="1" vertex="1" connectable="0">
@@ -214,7 +214,7 @@
         <mxCell id="Xqq2P5EVubGnJG7zBKkr-15" value="&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;font&gt;Representation&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;font&gt;Retriever&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="text;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;html=1;fontFamily=Comic Sans MS;fontSize=10;" parent="1" vertex="1">
           <mxGeometry x="468.38" y="214.25" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="C99hbG_H1EONaDBP8MdA-16" value="Next-hop&lt;div&gt;Documents&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;container=0;fontFamily=Comic Sans MS;" parent="1" vertex="1">
+        <mxCell id="C99hbG_H1EONaDBP8MdA-16" value="Higher-hop&lt;div&gt;Documents&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;container=0;fontFamily=Comic Sans MS;" parent="1" vertex="1">
           <mxGeometry x="536" y="220" width="57.49" height="19.39" as="geometry" />
         </mxCell>
         <mxCell id="C99hbG_H1EONaDBP8MdA-17" value="" style="outlineConnect=0;fillColor=#6C8EBF;strokeColor=#6c8ebf;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.document;container=0;shadow=1;" parent="1" vertex="1">
