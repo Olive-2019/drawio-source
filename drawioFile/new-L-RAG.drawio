@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36" version="27.0.4">
   <diagram name="第 1 页" id="2bCFAPYy3Ok_It1608nk">
-    <mxGraphModel dx="858" dy="552" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="965" dy="621" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -38,6 +38,14 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="385" y="102.71000000000001" as="sourcePoint" />
             <mxPoint x="445" y="102.71000000000001" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TraEb09-dWYpg7ymhTB3-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;curved=1;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1" source="TraEb09-dWYpg7ymhTB3-10" target="TraEb09-dWYpg7ymhTB3-18">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="491" y="170" />
+              <mxPoint x="215" y="170" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="TraEb09-dWYpg7ymhTB3-10" value="&lt;div&gt;layer-wise&lt;/div&gt;contriever" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;sketch=1;curveFitting=1;jiggle=2;fontFamily=Comic Sans MS;" vertex="1" parent="1">
@@ -93,6 +101,9 @@
         </mxCell>
         <mxCell id="TraEb09-dWYpg7ymhTB3-39" value="layer&lt;div&gt;classifier&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;sketch=1;curveFitting=1;jiggle=2;fontFamily=Comic Sans MS;" vertex="1" parent="1">
           <mxGeometry x="178" y="346" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="TraEb09-dWYpg7ymhTB3-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=1;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1" source="TraEb09-dWYpg7ymhTB3-43" target="TraEb09-dWYpg7ymhTB3-55">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="TraEb09-dWYpg7ymhTB3-43" value="final contriever" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;sketch=1;curveFitting=1;jiggle=2;fontFamily=Comic Sans MS;" vertex="1" parent="1">
           <mxGeometry x="458" y="379.5" width="70" height="40" as="geometry" />
@@ -168,6 +179,16 @@
         </mxCell>
         <mxCell id="TraEb09-dWYpg7ymhTB3-69" value="embedding" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;sketch=1;curveFitting=1;jiggle=2;fontFamily=Comic Sans MS;" vertex="1" parent="1">
           <mxGeometry x="317" y="375" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="TraEb09-dWYpg7ymhTB3-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;curved=1;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="490" y="270" as="sourcePoint" />
+            <mxPoint x="214" y="346" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="490" y="330" />
+              <mxPoint x="214" y="330" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
