@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="Jis6cY73mUHlKtGD7zfd-57" value="" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontFamily=Comic Sans MS;fillColor=#ffe6cc;strokeColor=#d79b00;sketch=1;curveFitting=1;jiggle=2;opacity=20;fontStyle=0;fontSize=13;" vertex="1" parent="1">
-          <mxGeometry x="210" y="260" width="350" height="240" as="geometry" />
+          <mxGeometry x="210" y="280" width="350" height="220" as="geometry" />
         </mxCell>
         <mxCell id="Jis6cY73mUHlKtGD7zfd-27" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=7;fillColor=#ffe6cc;strokeColor=#d79b00;sketch=1;curveFitting=1;jiggle=2;opacity=70;fontColor=light-dark(#d9b96d, #ededed);textShadow=1;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -61,18 +61,6 @@
               <mxPoint x="502" y="460" />
             </Array>
           </mxGeometry>
-        </mxCell>
-        <mxCell id="Jis6cY73mUHlKtGD7zfd-70" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=4;fillColor=#f8cecc;strokeColor=#b85450;sketch=1;curveFitting=1;jiggle=2;opacity=70;fontColor=light-dark(#d9b96d, #ededed);textShadow=1;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="280" y="283" as="sourcePoint" />
-            <mxPoint x="490" y="283" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Jis6cY73mUHlKtGD7zfd-71" value="concrete" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Comic Sans MS;fontSize=13;fontColor=#B85450;fontStyle=1;" vertex="1" parent="1">
-          <mxGeometry x="212" y="265" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="Jis6cY73mUHlKtGD7zfd-73" value="abstract" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Comic Sans MS;fontSize=13;fontColor=#B85450;fontStyle=1;" vertex="1" parent="1">
-          <mxGeometry x="493" y="265" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Jis6cY73mUHlKtGD7zfd-74" value="&lt;font style=&quot;color: rgb(215, 155, 0);&quot;&gt;Static&lt;/font&gt; &lt;font style=&quot;color: rgb(215, 155, 0);&quot;&gt;analysis &lt;/font&gt;based layer selection" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Comic Sans MS;fontSize=13;fontColor=#D9B96D;fontStyle=1;" vertex="1" parent="1">
           <mxGeometry x="202" y="440" width="110" height="50" as="geometry" />
