@@ -1,9 +1,49 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36" version="28.2.5">
   <diagram name="第 1 页" id="HGbCst0uHRm-Y3ar0iHU">
-    <mxGraphModel>
+    <mxGraphModel dx="594" dy="345" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="dSkdKwQ3IzfXC95VWWMy-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=宋体;" edge="1" parent="1" source="dSkdKwQ3IzfXC95VWWMy-2" target="dSkdKwQ3IzfXC95VWWMy-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dSkdKwQ3IzfXC95VWWMy-2" value="系统开始运行" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="180" y="210" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="dSkdKwQ3IzfXC95VWWMy-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=宋体;" edge="1" parent="1" source="dSkdKwQ3IzfXC95VWWMy-3" target="dSkdKwQ3IzfXC95VWWMy-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dSkdKwQ3IzfXC95VWWMy-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="dSkdKwQ3IzfXC95VWWMy-3" target="dSkdKwQ3IzfXC95VWWMy-12">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="320" y="315" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dSkdKwQ3IzfXC95VWWMy-3" value="系统初始化" style="whiteSpace=wrap;html=1;rounded=1;fontFamily=宋体;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="276" y="210" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="dSkdKwQ3IzfXC95VWWMy-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=宋体;" edge="1" parent="1" source="dSkdKwQ3IzfXC95VWWMy-5" target="dSkdKwQ3IzfXC95VWWMy-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dSkdKwQ3IzfXC95VWWMy-5" value="接收请求&lt;div&gt;（测试用例）&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;fontFamily=宋体;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="370" y="210" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="dSkdKwQ3IzfXC95VWWMy-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="dSkdKwQ3IzfXC95VWWMy-7" target="dSkdKwQ3IzfXC95VWWMy-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dSkdKwQ3IzfXC95VWWMy-7" value="记录错误测试用例涉及到的SQL" style="whiteSpace=wrap;html=1;rounded=1;fontFamily=宋体;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="470" y="210" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="dSkdKwQ3IzfXC95VWWMy-9" value="SQL重写" style="whiteSpace=wrap;html=1;rounded=1;fontFamily=宋体;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="570" y="210" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="dSkdKwQ3IzfXC95VWWMy-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="dSkdKwQ3IzfXC95VWWMy-12" target="dSkdKwQ3IzfXC95VWWMy-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dSkdKwQ3IzfXC95VWWMy-12" value="无法被记录的SQL" style="whiteSpace=wrap;html=1;rounded=1;fontFamily=宋体;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="370" y="290" width="80" height="50" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
