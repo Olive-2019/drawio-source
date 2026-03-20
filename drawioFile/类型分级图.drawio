@@ -1,9 +1,63 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36" version="29.6.3">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36" version="29.6.4">
   <diagram name="第 1 页" id="4E29CIO2wSHXEsb5lawU">
-    <mxGraphModel>
+    <mxGraphModel dx="772" dy="449" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="3QmTy3arJd6Eard2Y_Lw-12" edge="1" parent="1" source="3QmTy3arJd6Eard2Y_Lw-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="3QmTy3arJd6Eard2Y_Lw-11" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3QmTy3arJd6Eard2Y_Lw-25" edge="1" parent="1" source="3QmTy3arJd6Eard2Y_Lw-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="3QmTy3arJd6Eard2Y_Lw-24" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3QmTy3arJd6Eard2Y_Lw-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;opacity=70;dashed=1;" value="数据导入层" vertex="1">
+          <mxGeometry height="60" width="120" x="270" y="259" as="geometry" />
+        </mxCell>
+        <mxCell id="3QmTy3arJd6Eard2Y_Lw-14" edge="1" parent="1" source="3QmTy3arJd6Eard2Y_Lw-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="3QmTy3arJd6Eard2Y_Lw-13" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3QmTy3arJd6Eard2Y_Lw-23" edge="1" parent="1" source="3QmTy3arJd6Eard2Y_Lw-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="3QmTy3arJd6Eard2Y_Lw-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3QmTy3arJd6Eard2Y_Lw-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;opacity=70;dashed=1;" value="数据定义层" vertex="1">
+          <mxGeometry height="60" width="120" x="270" y="176" as="geometry" />
+        </mxCell>
+        <mxCell id="3QmTy3arJd6Eard2Y_Lw-18" edge="1" parent="1" source="3QmTy3arJd6Eard2Y_Lw-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="3QmTy3arJd6Eard2Y_Lw-17" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3QmTy3arJd6Eard2Y_Lw-21" edge="1" parent="1" source="3QmTy3arJd6Eard2Y_Lw-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="3QmTy3arJd6Eard2Y_Lw-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3QmTy3arJd6Eard2Y_Lw-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;opacity=70;dashed=1;" value="动态操作层" vertex="1">
+          <mxGeometry height="60" width="120" x="270" y="90" as="geometry" />
+        </mxCell>
+        <mxCell id="3QmTy3arJd6Eard2Y_Lw-11" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;opacity=70;dashed=1;" value="规则转换框架" vertex="1">
+          <mxGeometry height="60" width="120" x="420" y="260.5" as="geometry" />
+        </mxCell>
+        <mxCell id="3QmTy3arJd6Eard2Y_Lw-13" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;opacity=70;dashed=1;" value="基于数据库环境反馈的智能体框架" vertex="1">
+          <mxGeometry height="60" width="120" x="420" y="176" as="geometry" />
+        </mxCell>
+        <mxCell id="3QmTy3arJd6Eard2Y_Lw-17" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;opacity=70;dashed=1;" value="多反馈的智能体框架" vertex="1">
+          <mxGeometry height="60" width="120" x="420" y="91.5" as="geometry" />
+        </mxCell>
+        <mxCell id="3QmTy3arJd6Eard2Y_Lw-20" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;opacity=70;dashed=1;" value="dwf代码, 代码中内嵌的原生SQL等" vertex="1">
+          <mxGeometry height="60" width="120" x="120" y="90" as="geometry" />
+        </mxCell>
+        <mxCell id="3QmTy3arJd6Eard2Y_Lw-22" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;opacity=70;dashed=1;" value="create table/create function等语句" vertex="1">
+          <mxGeometry height="60" width="120" x="120" y="176" as="geometry" />
+        </mxCell>
+        <mxCell id="3QmTy3arJd6Eard2Y_Lw-24" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;opacity=70;dashed=1;" value="insert语句、load语句等" vertex="1">
+          <mxGeometry height="60" width="120" x="120" y="259" as="geometry" />
+        </mxCell>
+        <mxCell id="3QmTy3arJd6Eard2Y_Lw-26" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="例子" vertex="1">
+          <mxGeometry height="30" width="60" x="150" y="330" as="geometry" />
+        </mxCell>
+        <mxCell id="3QmTy3arJd6Eard2Y_Lw-27" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="解决方案" vertex="1">
+          <mxGeometry height="30" width="60" x="450" y="330" as="geometry" />
+        </mxCell>
+        <mxCell id="3QmTy3arJd6Eard2Y_Lw-28" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="定义" vertex="1">
+          <mxGeometry height="30" width="60" x="300" y="330" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
