@@ -1,9 +1,51 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36" version="29.6.6">
   <diagram name="第 1 页" id="_oqegSanOosFHtq-5Fsz">
-    <mxGraphModel>
+    <mxGraphModel dx="772" dy="449" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="puj27Z7u7i_HBE7kPWi7-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;dashed=1;opacity=50;" value="" vertex="1">
+          <mxGeometry height="170" width="510" x="110" y="140" as="geometry" />
+        </mxCell>
+        <mxCell id="puj27Z7u7i_HBE7kPWi7-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;opacity=50;fillColor=#dae8fc;strokeColor=#6c8ebf;dashed=1;" value="" vertex="1">
+          <mxGeometry height="180" width="510" x="110" y="240" as="geometry" />
+        </mxCell>
+        <mxCell id="puj27Z7u7i_HBE7kPWi7-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=none;" value="数据库环境交互工具&lt;div&gt;execute_sql&lt;/div&gt;" vertex="1">
+          <mxGeometry height="50" width="115" x="367" y="250" as="geometry" />
+        </mxCell>
+        <mxCell id="puj27Z7u7i_HBE7kPWi7-7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=none;" value="领域知识检索工具&lt;div&gt;search_docs&lt;/div&gt;" vertex="1">
+          <mxGeometry height="50" width="115" x="243" y="250" as="geometry" />
+        </mxCell>
+        <mxCell id="puj27Z7u7i_HBE7kPWi7-8" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=none;" value="数据库环境重置工具&lt;div&gt;reset_database&lt;/div&gt;" vertex="1">
+          <mxGeometry height="50" width="115" x="490" y="250" as="geometry" />
+        </mxCell>
+        <mxCell id="puj27Z7u7i_HBE7kPWi7-9" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=none;" value="状态管理工具&lt;div&gt;update_session_state&lt;/div&gt;" vertex="1">
+          <mxGeometry height="50" width="115" x="120" y="250" as="geometry" />
+        </mxCell>
+        <mxCell id="puj27Z7u7i_HBE7kPWi7-10" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=none;" value="SQL 对象提取工具&lt;div&gt;get_sqls_to_transfer&lt;/div&gt;" vertex="1">
+          <mxGeometry height="50" width="115" x="243" y="180" as="geometry" />
+        </mxCell>
+        <mxCell id="puj27Z7u7i_HBE7kPWi7-11" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=none;" value="DDL 结果持久化工具&lt;div&gt;write_function&lt;/div&gt;" vertex="1">
+          <mxGeometry height="50" width="115" x="367" y="180" as="geometry" />
+        </mxCell>
+        <mxCell id="puj27Z7u7i_HBE7kPWi7-12" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=none;" value="SQL 对象提取工具&lt;div&gt;execute_dwf_&lt;/div&gt;&lt;div&gt;cicd_pipeline&lt;/div&gt;" vertex="1">
+          <mxGeometry height="50" width="115" x="120" y="324" as="geometry" />
+        </mxCell>
+        <mxCell id="puj27Z7u7i_HBE7kPWi7-13" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=none;" value="受限代码修改工具&lt;div&gt;modify_files&lt;/div&gt;" vertex="1">
+          <mxGeometry height="50" width="115" x="243" y="324" as="geometry" />
+        </mxCell>
+        <mxCell id="puj27Z7u7i_HBE7kPWi7-14" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=none;" value="提交代码工具&lt;br&gt;&lt;div&gt;commit_changes&lt;/div&gt;" vertex="1">
+          <mxGeometry height="50" width="115" x="367" y="324" as="geometry" />
+        </mxCell>
+        <mxCell id="puj27Z7u7i_HBE7kPWi7-15" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=none;" value="重置代码工具&lt;br&gt;&lt;div&gt;reset_repository&lt;/div&gt;" vertex="1">
+          <mxGeometry height="50" width="115" x="490" y="324" as="geometry" />
+        </mxCell>
+        <mxCell id="puj27Z7u7i_HBE7kPWi7-17" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=14;fontStyle=1" value="数据定义层工具" vertex="1">
+          <mxGeometry height="30" width="160" x="285" y="150" as="geometry" />
+        </mxCell>
+        <mxCell id="puj27Z7u7i_HBE7kPWi7-18" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=14;fontStyle=1" value="数据操作层工具" vertex="1">
+          <mxGeometry height="30" width="160" x="285" y="384" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
